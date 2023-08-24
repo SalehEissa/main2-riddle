@@ -15,3 +15,9 @@
   h1 {
     color: #ff9900;
   }
+  h2 {
+    font-size: 28px;
+    color: #ff9900;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+  }
